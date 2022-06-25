@@ -14,7 +14,7 @@
 
 <img  src="./sidebar.png" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website]('https://thayalan.netlify.app/')**
+- 🙋‍♂️ All about me is at **[My Website](https://thayalan.netlify.app)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
